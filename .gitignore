@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+staticfiles/
+*.pyc
+*.sqlite
+.env
+tags
